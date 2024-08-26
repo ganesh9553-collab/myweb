@@ -32,11 +32,11 @@
 	<distributionManagement>
 	    <repository>
 	        <id>nexusRepo</id>
-	        <url>http://13.232.143.10:8081/repository/sample-releases/</url>
+	        <url>http://13.232.143.101:8081/repository/ganesh_project_1/</url>
 	    </repository>
 	    <snapshotRepository>
 	        <id>nexusRepo</id>
-	        <url>http://13.232.143.10:8081/repository/sample-snapshots/</url>
+	        <url>http://13.232.143.101:8081/repository/ganesh_project_2/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 
